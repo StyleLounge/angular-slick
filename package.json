@@ -1,6 +1,7 @@
 {
-  "name": "angularslick",
-  "version": "0.0.0",
+  "name": "angular-slick",
+  "version": "0.2.2",
+  "main": "dist/slick.min.js",
   "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.1",
